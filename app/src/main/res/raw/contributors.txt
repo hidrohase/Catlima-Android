@@ -43,6 +43,7 @@ Jiri Grönroos
 Giovanni Donisi
 109247019824
 HudobniVolk
+hidrohase
 Warder
 Balázs Meskó
 Traductor
@@ -62,7 +63,7 @@ Robin
 huuhaa
 Watchman89
 Skrripy
-Govindgopalyadav
+Yadav
 Gideon
 waffshappen
 Marnick L'Eau
