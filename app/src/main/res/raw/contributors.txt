@@ -43,6 +43,7 @@ Jiri Grönroos
 Giovanni Donisi
 109247019824
 HudobniVolk
+hidrohase
 Warder
 Balázs Meskó
 Traductor
@@ -58,11 +59,12 @@ NooB9496
 Jose Delvani
 Milan Šalka
 Robin
+delvani
 தமிழ்நேரம்
 huuhaa
 Watchman89
 Skrripy
-Govindgopalyadav
+Yadav
 Gideon
 waffshappen
 Marnick L'Eau
@@ -79,7 +81,6 @@ Aliaksandr Trush
 e-michalak
 தமிழ் நேரம்
 hajertabbane
-inavleb
 Ziad OUALHADJ
 Robin Liu
 Ricky Tigg
